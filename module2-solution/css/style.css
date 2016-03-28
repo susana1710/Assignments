@@ -15,11 +15,24 @@ section {
 }
 
 .section-title {
+	border: 1px solid black;
 	position:relative;
 	top:0%;
 	left:80%;
 	width:20%;
 	text-align:center;
+}
+
+#section-title-1 {
+	background-color:#f7c39f;	
+}
+
+#section-title-2 {
+	background-color:#ce5555;	
+}
+
+#section-title-3 {
+	background-color:#20aedb;	
 }
 
 .section-content {
