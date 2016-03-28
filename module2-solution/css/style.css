@@ -11,6 +11,11 @@ section {
 	margin-bottom:15px;
 }
 
+h1 {
+	font-size:175%;
+	text-align:center;
+}
+
 
 .row {
 	width: 100%;
@@ -21,9 +26,9 @@ section {
 	position:relative;
 	top:0%;
 	left:80%;
-	width:20%;
-	text-align:center;
+	width:25%;
 	font-size:125%;
+	text-align:center;
 }
 
 #section-title-1 {
