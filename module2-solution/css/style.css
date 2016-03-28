@@ -11,6 +11,12 @@ section {
 .row {
 	width: 100%;
 }
+
+.section-title {
+	position:relative;
+	top:0px;
+	right:0px;
+}
 /******************** Desktop version ********************/
 
 @media (min-width: 992px) {
